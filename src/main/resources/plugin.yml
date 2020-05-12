@@ -1,0 +1,9 @@
+name: CommandFrameworkTest
+version: ${project.version}
+main: com.github.frcsty.commandframeworktest.CommandFrameworkTest
+author: Frcsty
+
+commands:
+  testcommand:
+    description: A test command
+    permission: test.permission
